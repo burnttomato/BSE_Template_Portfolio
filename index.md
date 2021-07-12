@@ -29,5 +29,6 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 
 My first milestone was assembling the chassis of the robotic car and attaching motors. Each of the four motors has two electrodes for connections, so I had to figure out the best way to wire them together. Since I'm using "tank steering", where rotating the wheels on one side faster makes the car turn, I chose to connect the two motors on each side of the car together first. One of the challenges that I faced was that the bottom screws on each motor were actually positioned too close to the acrylic chassis, making it impossible to rotate a nut to fasten them. To solve this, I reversed the direction of these bottom screws so that the nut would be positioned on the outside of the chassis. I've been able to use a battery to drive each of these motors individually, so the next step is to use a motor driver and the Raspberry Pi to control the motors using code.
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1626118853/video_to_markdown/images/youtube--XxPROW2PbTg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/XxPROW2PbTg "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1626118853/video_to_markdown/images/youtube--XxPROW2PbTg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/XxPROW2PbTg "First Milestone")
+{:target="_blank" rel="noopener"}
 
