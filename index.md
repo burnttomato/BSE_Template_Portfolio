@@ -19,6 +19,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 # Second Milestone
 My second milestone was using the camera to control the motors of the car. This is a crucial aspect of the self-driving car, since it needs to be able to track and recognize where the desired object is, and then respond accordingly through driving towards that object. At first, I encountered a problem in that the motors were wired incorrectly, leading to a forwards command becoming a right turn, for example. To solve this, I manually gave the robot some commands to test which connections corresponded with which wheels, and was able to fix the problem. The next step is to incorporate the ultrasonic sensors and integrate the electronics onto the chassis in such a way that the car can run on its own (separate from a monitor/wired power source).
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1626726535/video_to_markdown/images/youtube--5PqLjs-i1NA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=5PqLjs-i1NA "Second Milestone"){:target="_blank" rel="noopener"}
 
 # First Milestone
   
