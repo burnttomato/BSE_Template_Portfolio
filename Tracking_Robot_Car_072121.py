@@ -1,4 +1,3 @@
-#Based on the code from https://www.hackster.io/junejarohan/ball-tracking-robot-7a9865?ref=platform&ref_id=424_respected___&offset=79#comments
 # import the necessary packages
 from picamera.array import PiRGBArray     #As there is a resolution problem in raspberry pi, will not be able to capture frames by VideoCapture
 from picamera import PiCamera
@@ -163,11 +162,23 @@ def stop():
 
 #Image analysis work
 def segment_colour(frame):    #returns only the red colors in the frame
+# my code
+#     hsv_roi =  cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
+#     mask_1 = cv2.inRange(hsv_roi, np.array([160, 160,60]), np.array([200,255,245]))
+#     ycr_roi=cv2.cvtColor(frame,cv2.COLOR_BGR2YCrCb)
+#     mask_2=cv2.inRange(ycr_roi, np.array((20.,0.,160.)), np.array((245.,50.,255.)))
+#
+# Given code (red)
+#     hsv_roi =  cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
+#     mask_1 = cv2.inRange(hsv_roi, np.array([160, 160,10]), np.array([190,255,255]))
+#     ycr_roi=cv2.cvtColor(frame,cv2.COLOR_BGR2YCrCb)
+#     mask_2=cv2.inRange(ycr_roi, np.array((0.,165.,0.)), np.array((255.,255.,255.)))
     hsv_roi =  cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
-    mask_1 = cv2.inRange(hsv_roi, np.array([160, 160,10]), np.array([190,255,255]))
+    mask_1 = cv2.inRange(hsv_roi, np.array([160, 190,90]), np.array([190,255,255]))
     ycr_roi=cv2.cvtColor(frame,cv2.COLOR_BGR2YCrCb)
-    mask_2=cv2.inRange(ycr_roi, np.array((0.,165.,0.)), np.array((255.,255.,255.)))
-
+    mask_2=cv2.inRange(ycr_roi, np.array((50.,0,0.)), np.array((235.,55.,155.)))
+# 
+#     
     mask = mask_1 | mask_2
     kern_dilate = np.ones((8,8),np.uint8)
     kern_erode  = np.ones((3,3),np.uint8)
@@ -214,7 +225,9 @@ time.sleep(0.001)
  
 # capture frames from the camera
 index = 0
+flag = 1
 for image in camera.capture_continuous(rawCapture, format="bgr", use_video_port=True):
+
       if keyboard.is_pressed('p'):
          index = 1
          stop()
@@ -227,7 +240,10 @@ for image in camera.capture_continuous(rawCapture, format="bgr", use_video_port=
       if (index == 0):
           #grab the raw NumPy array representing the image, then initialize the timestamp and occupied/unoccupied text
           frame = image.array
-          #frame=cv2.flip(frame,1) #flips around the y-axis
+          frame=cv2.flip(frame,-1) #flips around the x and y-axis
+         #show camera input
+          image1 = frame
+          cv2.imshow('Image_Raw', image1) 
           global centre_x
           global centre_y
           centre_x=0.
@@ -236,7 +252,9 @@ for image in camera.capture_continuous(rawCapture, format="bgr", use_video_port=
           mask_red=segment_colour(frame)      #masking red the frame
           loct,area=find_blob(mask_red)
           x,y,w,h=loct
-         
+         #show camera input
+          image2 = mask_red
+          cv2.imshow('Image', image2)
           #distance coming from front ultrasonic sensor
           distanceC = sonar(GPIO_TRIGGER2,GPIO_ECHO2)
           #distance coming from right ultrasonic sensor
@@ -253,10 +271,14 @@ for image in camera.capture_continuous(rawCapture, format="bgr", use_video_port=
                 centre_y=y+((h)/2)
                 cv2.circle(frame,(int(centre_x),int(centre_y)),3,(0,110,255),-1)
                 centre_x-=80
-                centre_y=6--centre_y
+#                 centre_y=6--centre_y
                 print (centre_x,centre_y)
-          initial=400 #threshold size for area of the object (mmask must be larger than this)
-          flag=0
+          initial=800 #threshold size for area of the object (mmask must be larger than this)
+#           if (centre_x>10):
+#               flag=0
+#           elif (centre_x<10):
+#               flag=1
+#           print (flag)
           GPIO.output(LED_PIN,GPIO.LOW)          
           if(found==0):
                 print("Center-dist" , distanceC)
