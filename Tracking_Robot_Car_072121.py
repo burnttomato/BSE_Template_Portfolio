@@ -1,4 +1,4 @@
-#Credit to https://www.hackster.io/junejarohan/ball-tracking-robot-7a9865?ref=platform&ref_id=424_respected___&offset=79#comments
+#Based on the code from https://www.hackster.io/junejarohan/ball-tracking-robot-7a9865?ref=platform&ref_id=424_respected___&offset=79#comments
 # import the necessary packages
 from picamera.array import PiRGBArray     #As there is a resolution problem in raspberry pi, will not be able to capture frames by VideoCapture
 from picamera import PiCamera
