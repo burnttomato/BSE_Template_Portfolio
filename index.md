@@ -7,6 +7,7 @@ This project intrigued me because it combines computer vision with robotics. In 
 | Oliver | Leland High School | Electrical Engineering | Incoming Senior
 
 ![Headstone Image](https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Final_Side.JPG)
+new style:
 <img src="images/Final_Side.JPG" width=500 align=center style="float:right; padding-right:10px">
 
 # Final Milestone
