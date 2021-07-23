@@ -1,1 +1,1 @@
-To read my portfolio, check out the index page in branches!
+To read my portfolio, check out the index on the gh-pages in branches!
