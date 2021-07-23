@@ -1,1 +1,1 @@
-To edit your portfolio, please go over to the gh_pages branch!
+To read my portfolio, check out the index page in branches!
