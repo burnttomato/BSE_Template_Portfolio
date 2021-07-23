@@ -7,7 +7,8 @@ This project intrigued me because it combines computer vision with robotics. In 
 | Oliver | Leland High School | Electrical Engineering | Incoming Senior
 
 ![Headstone Image](https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Final_Side.JPG)
-  
+<img src="images/Final_Side.JPG" width=500 align=center style="float:right; padding-right:10px">
+
 # Final Milestone
 My final milestone was getting the robot to be able to track an object! The computer vision code is actually based off of sensing color, which means that I was able to modify the code to target red objects. One of the major hurdles in this stage was separating the robot from its wired connections to a monitor and a wall socket for power. To run the code without a monitor, I devised a method to start the program everytime a new terminal was opened. That way, I could use a wireless keyboard to start and stop the process. 
 [![Presentation](https://res.cloudinary.com/marcomontalbano/image/upload/v1627082457/video_to_markdown/images/youtube--0_jq7dRB8Sw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/0_jq7dRB8Sw "Presentation") <br>
