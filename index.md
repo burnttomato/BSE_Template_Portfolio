@@ -15,15 +15,15 @@ My final milestone was getting the robot to be able to track an object! The comp
 
 For power, I used a power bank with some extension cords wrapped around the front of the chassis. Besides serving as a pseudo-bumper, I could now charge the power bank when not in use, and then disconnect the extension cords to allow the car to roam freely.  
 <br>
-<img src="https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Final_Front.JPG" width=800 align=center style="float:right; padding-right:10px">
+<img src="Final_Front.JPG" width=800 align=center style="float:right; padding-right:10px">
 
 <br> There's also another battery pack in the back that is used to power the motors, whereas the powerbank powers the Raspberry Pi.
 <br>
-<img src="https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Final_Rear.JPG" width=800 align=center style="float:right; padding-right:10px">
+<img src="Final_Rear.JPG" width=800 align=center style="float:right; padding-right:10px">
 <br> 
 
 <br>
-<img src="https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Final_Side.JPG" width=800 align=center style="float:right; padding-right:10px">
+<img src="Final_Side.JPG" width=800 align=center style="float:right; padding-right:10px">
 <br>
 <br>
 Here are some pictures of the development process: 
@@ -31,7 +31,7 @@ Here are some pictures of the development process:
 
 Prototype breadboard without internal battery (power bank): 
 <br>
-<img src="https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Breadboard_Prototype.JPG" width=500 align=center style="float:right; padding-right:10px"> <br>
+<img src="Breadboard_Prototype.JPG" width=500 align=center style="float:right; padding-right:10px"> <br>
 
 Opening up the chassis: <br>
 <img src="https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Base_Chassis.JPG" width=500 align=center style="float:right; padding-right:10px"> <br>
