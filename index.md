@@ -13,19 +13,19 @@ My final milestone was getting the robot to be able to track an object! The comp
 
 [![Demo Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1627064853/video_to_markdown/images/youtube--j8l3IfQUkO0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/j8l3IfQUkO0 "Demo Video")
 
-For power, I used a power bank with some extension cords wrapped around the front of the chassis. Besides serving as a pseudo-bumper, I could now charge the power bank when not in use, and then disconnect the extension cords to allow the car to roam freely.
+For power, I used a power bank with some extension cords wrapped around the front of the chassis. Besides serving as a pseudo-bumper, I could now charge the power bank when not in use, and then disconnect the extension cords to allow the car to roam freely.  
 <img src="https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Final_Front.JPG" width=300 align=center style="float:right; padding-right:10px">
 <img src="https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Final_Rear.JPG" width=300 align=center style="float:right; padding-right:10px">
 <img src="https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Final_Side.JPG" width=300 align=center style="float:right; padding-right:10px">
 
-Here are some pictures of the development process:
+Here are some pictures of the development process: <br>
 
-Prototyped breadboard without internal battery:
-<img src="https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Breadboard_Prototype.JPG" width=500 align=center style="float:right; padding-right:10px">
-Opening up the chassis:
-<img src="https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Base_Chassis.JPG" width=500 align=center style="float:right; padding-right:10px">
+Prototyped breadboard without internal battery: <br>
+<img src="https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Breadboard_Prototype.JPG" width=500 align=center style="float:right; padding-right:10px"> <br>
+Opening up the chassis: <br>
+<img src="https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Base_Chassis.JPG" width=500 align=center style="float:right; padding-right:10px"> <br>
 
-Adding the battery and extension cords:
+Adding the battery and extension cords: <br>
 <img src="https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Battery_Top.JPG" width=500 align=center style="float:right; padding-right:10px">
 <img src="https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Battery_Side.JPG" width=500 align=center style="float:right; padding-right:10px">
 
