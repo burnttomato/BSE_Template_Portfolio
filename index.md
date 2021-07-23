@@ -26,10 +26,13 @@ For power, I used a power bank with some extension cords wrapped around the fron
 <img src="https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Final_Side.JPG" width=800 align=center style="float:right; padding-right:10px">
 <br>
 <br>
-Here are some pictures of the development process: <br>
+Here are some pictures of the development process: 
+<br>
 
-Prototype breadboard without internal battery (power bank): <br>
+Prototype breadboard without internal battery (power bank): 
+<br>
 <img src="https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Breadboard_Prototype.JPG" width=500 align=center style="float:right; padding-right:10px"> <br>
+
 Opening up the chassis: <br>
 <img src="https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Base_Chassis.JPG" width=500 align=center style="float:right; padding-right:10px"> <br>
 
