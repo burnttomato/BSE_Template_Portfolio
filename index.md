@@ -6,7 +6,7 @@ This project intrigued me because it combines computer vision with robotics. In 
 |:--:|:--:|:--:|:--:|
 | Oliver Wang | Leland High School | Electrical Engineering | Incoming Senior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Final_Side.JPG)
   
 # Final Milestone
 My final milestone was getting the robot to be able to track an object! The computer vision code is actually based off of sensing color, which means that I was able to modify the code to target red objects. One of the major hurdles in this stage was separating the robot from its wired connections to a monitor and a wall socket for power. To run the code without a monitor, I devised a method to start the program everytime a new terminal was opened. That way, I could use a wireless keyboard to start and stop the process. For power, I used a power bank with some extension cords wrapped around the front of the chassis. Besides serving as a pseudo-bumper, I could now charge the power bank when not in use, and then disconnect the extension cords to allow the car to roam freely.
