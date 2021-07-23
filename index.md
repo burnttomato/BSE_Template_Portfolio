@@ -10,12 +10,12 @@ This project intrigued me because it combines computer vision with robotics. In 
   
 # Final Milestone
 My final milestone was getting the robot to be able to track an object! The computer vision code is actually based off of sensing color, which means that I was able to modify the code to target red objects. One of the major hurdles in this stage was separating the robot from its wired connections to a monitor and a wall socket for power. To run the code without a monitor, I devised a method to start the program everytime a new terminal was opened. That way, I could use a wireless keyboard to start and stop the process. 
-
+[![Presentation](https://res.cloudinary.com/marcomontalbano/image/upload/v1627082457/video_to_markdown/images/youtube--0_jq7dRB8Sw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/0_jq7dRB8Sw "Presentation") <br>
 [![Demo Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1627064853/video_to_markdown/images/youtube--j8l3IfQUkO0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/j8l3IfQUkO0 "Demo Video")
 
 For power, I used a power bank with some extension cords wrapped around the front of the chassis. Besides serving as a pseudo-bumper, I could now charge the power bank when not in use, and then disconnect the extension cords to allow the car to roam freely.  
 <br>
-<img src="Final_Front.JPG" width=800 align=center style="float:right; padding-right:10px">
+<img src="https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/70ffd18d400209d4a71eb754599eb30974ff20f7/Final_Front.JPG" width=800 align=center style="float:right; padding-right:10px">
 
 <br> There's also another battery pack in the back that is used to power the motors, whereas the powerbank powers the Raspberry Pi.
 <br>
