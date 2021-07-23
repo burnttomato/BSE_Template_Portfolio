@@ -18,7 +18,14 @@ For power, I used a power bank with some extension cords wrapped around the fron
 <img src="https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Final_Rear.JPG" width=300 align=center style="float:right; padding-right:10px">
 <img src="https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Final_Side.JPG" width=300 align=center style="float:right; padding-right:10px">
 
-
+Here are some pictures of the development process:
+Prototyped breadboard without internal battery:
+<img src="https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Breadboard_Prototype.JPG" width=300 align=center style="float:right; padding-right:10px">
+Opening up the chassis:
+<img src="https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Base_Chassis.JPG" width=300 align=center style="float:right; padding-right:10px">
+Adding the battery and extension cords:
+<img src="https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Battery_Top.JPG" width=300 align=center style="float:right; padding-right:10px">
+<img src="https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Battery_Side.JPG" width=300 align=center style="float:right; padding-right:10px">
 
 # Second Milestone
 My second milestone was using the camera to control the motors of the car. This is a crucial aspect of the self-driving car, since it needs to be able to track and recognize where the desired object is, and then respond accordingly through driving towards that object. At first, I encountered a problem in that the motors were wired incorrectly, leading to a forwards command becoming a right turn, for example. To solve this, I manually gave the robot some commands to test which connections corresponded with which wheels, and was able to fix the problem. The next step is to incorporate the ultrasonic sensors and integrate the electronics onto the chassis in such a way that the car can run on its own (separate from a monitor/wired power source).
