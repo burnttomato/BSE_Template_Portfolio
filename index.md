@@ -48,9 +48,10 @@ Adding the battery and extension cords: <br>
 <img src="https://user-images.githubusercontent.com/86201494/126851177-6684e429-baed-445e-9c27-4e30dc28a6af.JPG" width=500 align=center style="float:right; padding-right:10px">
 
 <br>
-# Circuit Diagram
-![Circuit Diagram Bluestamp Object Tracking Car Project](https://user-images.githubusercontent.com/86201494/126854831-7be82410-fa27-4eb9-aed2-af4f0720780b.png)
 
+# Circuit Diagram <br>
+<img src="https://user-images.githubusercontent.com/86201494/126854831-7be82410-fa27-4eb9-aed2-af4f0720780b.png" width=800 align=center style="float:right; padding-right:10px">
+<br>
 # Second Milestone
 My second milestone was using the camera to control the motors of the car. This is a crucial aspect of the self-driving car, since it needs to be able to track and recognize where the desired object is, and then respond accordingly through driving towards that object. At first, I encountered a problem in that the motors were wired incorrectly, leading to a forwards command becoming a right turn, for example. To solve this, I manually gave the robot some commands to test which connections corresponded with which wheels, and was able to fix the problem. The next step is to incorporate the ultrasonic sensors and integrate the electronics onto the chassis in such a way that the car can run on its own (separate from a monitor/wired power source).
 [![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1626726535/video_to_markdown/images/youtube--5PqLjs-i1NA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=5PqLjs-i1NA "Second Milestone"){:target="_blank" rel="noopener"}
