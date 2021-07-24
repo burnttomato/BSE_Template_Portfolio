@@ -1,10 +1,3 @@
-![Final_Rear](https://user-images.githubusercontent.com/86201494/126851151-485facba-2130-4547-8e7a-5b16119e59d8.JPG)
-![Breadboard_Prototype](https://user-images.githubusercontent.com/86201494/126851167-21694044-5606-4d7e-b44a-6ef879406a26.JPG)
-![Base_Chassis](https://user-images.githubusercontent.com/86201494/126851173-d3ad6da9-0558-4c01-8103-321a4fac7817.JPG)
-![Battery_Side](https://user-images.githubusercontent.com/86201494/126851177-6684e429-baed-445e-9c27-4e30dc28a6af.JPG)
-![Battery_Top](https://user-images.githubusercontent.com/86201494/126851179-851a3e62-9141-4b38-8aed-d5edfb0da7ac.JPG)
-![TestDrive_Front](https://user-images.githubusercontent.com/86201494/126851184-bc4bc910-10fe-497b-b424-6d99f7fafc35.JPG)
-![TestDrive_Side](https://user-images.githubusercontent.com/86201494/126851188-a4172269-a396-4223-a7fe-8cbeec9461ce.JPG)
 ﻿# Ball Tracking Robot
 
 This project intrigued me because it combines computer vision with robotics. In piecing together this robot car, I learned a lot about both the coding aspects of the software and mechanical techniques such as soldering the hardware. Most importantly however, I learned how to analyze and overcome unexpected setbacks.
