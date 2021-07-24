@@ -1,3 +1,10 @@
+![Final_Rear](https://user-images.githubusercontent.com/86201494/126851151-485facba-2130-4547-8e7a-5b16119e59d8.JPG)
+![Breadboard_Prototype](https://user-images.githubusercontent.com/86201494/126851167-21694044-5606-4d7e-b44a-6ef879406a26.JPG)
+![Base_Chassis](https://user-images.githubusercontent.com/86201494/126851173-d3ad6da9-0558-4c01-8103-321a4fac7817.JPG)
+![Battery_Side](https://user-images.githubusercontent.com/86201494/126851177-6684e429-baed-445e-9c27-4e30dc28a6af.JPG)
+![Battery_Top](https://user-images.githubusercontent.com/86201494/126851179-851a3e62-9141-4b38-8aed-d5edfb0da7ac.JPG)
+![TestDrive_Front](https://user-images.githubusercontent.com/86201494/126851184-bc4bc910-10fe-497b-b424-6d99f7fafc35.JPG)
+![TestDrive_Side](https://user-images.githubusercontent.com/86201494/126851188-a4172269-a396-4223-a7fe-8cbeec9461ce.JPG)
 ﻿# Ball Tracking Robot
 
 This project intrigued me because it combines computer vision with robotics. In piecing together this robot car, I learned a lot about both the coding aspects of the software and mechanical techniques such as soldering the hardware. Most importantly however, I learned how to analyze and overcome unexpected setbacks.
@@ -20,26 +27,31 @@ For power, I used a power bank with some extension cords wrapped around the fron
 
 <br> There's also another battery pack in the back that is used to power the motors, whereas the powerbank powers the Raspberry Pi.
 <br>
-<img src="Final_Rear.JPG" width=800 align=center style="float:right; padding-right:10px">
+<img src="https://user-images.githubusercontent.com/86201494/126851151-485facba-2130-4547-8e7a-5b16119e59d8.JPG" width=800 align=center style="float:right; padding-right:10px">
 <br> 
 
 <br>
-<img src="Final_Side.JPG" width=800 align=center style="float:right; padding-right:10px">
+<img src="https://user-images.githubusercontent.com/86201494/126851184-bc4bc910-10fe-497b-b424-6d99f7fafc35.JPG" width=800 align=center style="float:right; padding-right:10px">
 <br>
+
+<br>
+<img src="https://user-images.githubusercontent.com/86201494/126851188-a4172269-a396-4223-a7fe-8cbeec9461ce.JPG" width=800 align=center style="float:right; padding-right:10px">
+<br>
+
 <br>
 Here are some pictures of the development process: 
 <br>
 
 Prototype breadboard without internal battery (power bank): 
 <br>
-<img src="Breadboard_Prototype.JPG" width=500 align=center style="float:right; padding-right:10px"> <br>
+<img src="https://user-images.githubusercontent.com/86201494/126851167-21694044-5606-4d7e-b44a-6ef879406a26.JPG" width=500 align=center style="float:right; padding-right:10px"> <br>
 
 Opening up the chassis: <br>
-<img src="https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Base_Chassis.JPG" width=500 align=center style="float:right; padding-right:10px"> <br>
+<img src="https://user-images.githubusercontent.com/86201494/126851173-d3ad6da9-0558-4c01-8103-321a4fac7817.JPG" width=500 align=center style="float:right; padding-right:10px"> <br>
 
 Adding the battery and extension cords: <br>
-<img src="https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Battery_Top.JPG" width=300 align=center style="float:right; padding-right:10px">
-<img src="https://github.com/burnttomato/Oliver_BSE_Portfolio/blob/main/Battery_Side.JPG" width=500 align=center style="float:right; padding-right:10px">
+<img src="https://user-images.githubusercontent.com/86201494/126851179-851a3e62-9141-4b38-8aed-d5edfb0da7ac.JPG" width=300 align=center style="float:right; padding-right:10px">
+<img src="https://user-images.githubusercontent.com/86201494/126851177-6684e429-baed-445e-9c27-4e30dc28a6af.JPG" width=500 align=center style="float:right; padding-right:10px">
 
 # Second Milestone
 My second milestone was using the camera to control the motors of the car. This is a crucial aspect of the self-driving car, since it needs to be able to track and recognize where the desired object is, and then respond accordingly through driving towards that object. At first, I encountered a problem in that the motors were wired incorrectly, leading to a forwards command becoming a right turn, for example. To solve this, I manually gave the robot some commands to test which connections corresponded with which wheels, and was able to fix the problem. The next step is to incorporate the ultrasonic sensors and integrate the electronics onto the chassis in such a way that the car can run on its own (separate from a monitor/wired power source).
