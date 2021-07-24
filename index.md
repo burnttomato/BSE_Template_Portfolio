@@ -23,37 +23,34 @@ For power, I used a power bank with some extension cords wrapped around the fron
 
 <br> There's also another battery pack in the back that is used to power the motors, whereas the powerbank powers the Raspberry Pi.
 
-<br>
+
 <img src="https://user-images.githubusercontent.com/86201494/126851151-485facba-2130-4547-8e7a-5b16119e59d8.JPG" width=800 align=center style="float:right; padding-right:10px">
 <br> 
 
 <br>
 <img src="https://user-images.githubusercontent.com/86201494/126851184-bc4bc910-10fe-497b-b424-6d99f7fafc35.JPG" width=800 align=center style="float:right; padding-right:10px">
-<br>
 
 <br>
 <img src="https://user-images.githubusercontent.com/86201494/126851188-a4172269-a396-4223-a7fe-8cbeec9461ce.JPG" width=800 align=center style="float:right; padding-right:10px">
-<br>
+
 
 <br>
 Here are some pictures of the development process: 
 
-<br>
 
 Prototype breadboard without internal battery (power bank): 
-<br>
-<img src="https://user-images.githubusercontent.com/86201494/126851167-21694044-5606-4d7e-b44a-6ef879406a26.JPG" width=500 align=center style="float:right; padding-right:10px"> <br>
 
-Opening up the chassis: <br>
-<img src="https://user-images.githubusercontent.com/86201494/126851173-d3ad6da9-0558-4c01-8103-321a4fac7817.JPG" width=500 align=center style="float:right; padding-right:10px"> <br>
+<img src="https://user-images.githubusercontent.com/86201494/126851167-21694044-5606-4d7e-b44a-6ef879406a26.JPG" width=500 align=center style="float:right; padding-right:10px"> 
 
-Adding the battery and extension cords: <br>
+Opening up the chassis:
+<img src="https://user-images.githubusercontent.com/86201494/126851173-d3ad6da9-0558-4c01-8103-321a4fac7817.JPG" width=500 align=center style="float:right; padding-right:10px"> 
+
+Adding the battery and extension cords: 
 <img src="https://user-images.githubusercontent.com/86201494/126851179-851a3e62-9141-4b38-8aed-d5edfb0da7ac.JPG" width=300 align=center style="float:right; padding-right:10px">
 <img src="https://user-images.githubusercontent.com/86201494/126851177-6684e429-baed-445e-9c27-4e30dc28a6af.JPG" width=500 align=center style="float:right; padding-right:10px">
 
-<br>
 
-# Circuit Diagram <br>
+# Circuit Diagram 
 <img src="https://user-images.githubusercontent.com/86201494/126854831-7be82410-fa27-4eb9-aed2-af4f0720780b.png" width=500 align=center style="float:right; padding-right:10px">
 
 
