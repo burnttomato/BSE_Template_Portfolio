@@ -49,7 +49,7 @@ Adding the battery and extension cords: <br>
 
 <br>
 
-# Circuit Diagram <br>
+Circuit Diagram <br>
 <img src="https://user-images.githubusercontent.com/86201494/126854831-7be82410-fa27-4eb9-aed2-af4f0720780b.png" width=800 align=center style="float:right; padding-right:10px">
 <br>
 
