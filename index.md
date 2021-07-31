@@ -8,6 +8,7 @@ This project intrigued me because it combines computer vision with robotics. In 
 | Oliver | Leland High School | Electrical Engineering | Incoming Senior
 
 ![Headstone Image](https://user-images.githubusercontent.com/86201494/126851087-6cdda2d1-b4bb-4fc0-83c0-803900.JPG)
+![TestDrive_Side](https://user-images.githubusercontent.com/86201494/127748388-1ccb7bc7-0261-495d-81ad-5f490af8f162.JPG)
 
 # Final Milestone
 My final milestone was getting the robot to be able to track an object! The computer vision code is actually based off of sensing color, which means that I was able to modify the code to target red objects. One of the major hurdles in this stage was separating the robot from its wired connections to a monitor and a wall socket for power. To run the code without a monitor, I devised a method to start the program everytime a new terminal was opened. That way, I could use a wireless keyboard to start and stop the process.
@@ -26,14 +27,6 @@ For power, I used a power bank with some extension cords wrapped around the fron
 ![Final_Rear](https://user-images.githubusercontent.com/86201494/127726107-025c32f8-ee62-4b23-a018-9409b15d51bf.JPG)
 ![Final_Side](https://user-images.githubusercontent.com/86201494/127726120-4cd1b53c-60a1-4294-87f2-9ef85af9716b.JPG)
 
-<img src="https://user-images.githubusercontent.com/86201494/126851151-485facba-2130-4547-8e7a-5b16119e59d8.JPG" width=800 align=center style="float:right; padding-right:10px">
-<br> 
-
-<br>
-<img src="https://user-images.githubusercontent.com/86201494/126851184-bc4bc910-10fe-497b-b424-6d99f7fafc35.JPG" width=800 align=center style="float:right; padding-right:10px">
-  
-<br>
-<img src="https://user-images.githubusercontent.com/86201494/126851188-a4172269-a396-4223-a7fe-8cbeec9461ce.JPG" width=800 align=center style="float:right; padding-right:10px">
 
 <br>
 Here are some pictures of the development process:   
@@ -51,6 +44,8 @@ Adding the battery and extension cords:
 ![Battery_Side](https://user-images.githubusercontent.com/86201494/127726515-451a7648-44da-4725-9d9f-453a94f6dc5f.JPG)
 ![Battery_Top](https://user-images.githubusercontent.com/86201494/127726520-3de7fb87-be8c-4535-a1a8-7b67eb23f923.JPG)
 
+Test Drive:
+![TestDrive_Front](https://user-images.githubusercontent.com/86201494/127748407-d781326a-b3b4-437f-9d65-43fce54b40fe.JPG)
 
 # Circuit Diagram 
 ![Circuit Diagram Bluestamp Object Tracking Car Project (1)](https://user-images.githubusercontent.com/86201494/127726572-42458bc6-82ed-446f-9336-1d3ca15571b5.png)
