@@ -37,7 +37,7 @@ Prototype breadboard without internal battery (power bank):
 
 Opening up the chassis:  
 ![Base_Chassis](https://user-images.githubusercontent.com/86201494/127726455-93188820-2abe-4f2e-91eb-ff65016d5f15.JPG)
-37c384.JPG)
+
 
 
 Adding the battery and extension cords:  
