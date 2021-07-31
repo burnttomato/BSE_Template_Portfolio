@@ -17,7 +17,10 @@ My final milestone was getting the robot to be able to track an object! The comp
 
 For power, I used a power bank with some extension cords wrapped around the front of the chassis. Besides serving as a pseudo-bumper, I could now charge the power bank when not in use, and then disconnect the extension cords to allow the car to roam freely. 
 
-<br>
+test
+![Headstone Image](https://user-images.githubusercontent.com/86201494/126851031-ebab24cc-b4ef-4eb4-b583-f27bc535da17.JPG)
+
+old
 <img src="https://user-images.githubusercontent.com/86201494/126851031-ebab24cc-b4ef-4eb4-b583-f27bc535da17.JPG" width=800 align=center style="float:right; padding-right:10px">
 
 
