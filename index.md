@@ -7,7 +7,7 @@ This project intrigued me because it combines computer vision with robotics. In 
 |:--:|:--:|:--:|:--:|
 | Oliver | Leland High School | Electrical Engineering | Incoming Senior
 
-![Headstone Image](https://user-images.githubusercontent.com/86201494/126851087-6cdda2d1-b4bb-4fc0-83c0-803900)
+![Headstone Image](https://user-images.githubusercontent.com/86201494/126851087-6cdda2d1-b4bb-4fc0-83c0-803900.JPG)
 
 # Final Milestone
 My final milestone was getting the robot to be able to track an object! The computer vision code is actually based off of sensing color, which means that I was able to modify the code to target red objects. One of the major hurdles in this stage was separating the robot from its wired connections to a monitor and a wall socket for power. To run the code without a monitor, I devised a method to start the program everytime a new terminal was opened. That way, I could use a wireless keyboard to start and stop the process.
