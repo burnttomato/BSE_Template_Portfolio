@@ -7,7 +7,7 @@ This project intrigued me because it combines computer vision with robotics. In 
 |:--:|:--:|:--:|:--:|
 | Oliver | Leland High School | Electrical Engineering | Incoming Senior
 
-![Headstone Image](https://user-images.githubusercontent.com/86201494/126851087-6cdda2d1-b4bb-4fc0-83c0-80390037c384.JPG)
+![Headstone Image](https://user-images.githubusercontent.com/86201494/126851087-6cdda2d1-b4bb-4fc0-83c0-803900)
 
 # Final Milestone
 My final milestone was getting the robot to be able to track an object! The computer vision code is actually based off of sensing color, which means that I was able to modify the code to target red objects. One of the major hurdles in this stage was separating the robot from its wired connections to a monitor and a wall socket for power. To run the code without a monitor, I devised a method to start the program everytime a new terminal was opened. That way, I could use a wireless keyboard to start and stop the process.
@@ -40,20 +40,21 @@ Here are some pictures of the development process:
 
 
 Prototype breadboard without internal battery (power bank):  
-
-<img src="https://user-images.githubusercontent.com/86201494/126851167-21694044-5606-4d7e-b44a-6ef879406a26.JPG" width=500 align=center style="float:right; padding-right:10px"> 
+![Breadboard_Prototype](https://user-images.githubusercontent.com/86201494/127726509-9221f7d8-02d7-4a32-a012-1ef3b41beec9.JPG)
 
 Opening up the chassis:  
-<img src="https://user-images.githubusercontent.com/86201494/126851173-d3ad6da9-0558-4c01-8103-321a4fac7817.JPG" width=500 align=center style="float:right; padding-right:10px"> 
+![Base_Chassis](https://user-images.githubusercontent.com/86201494/127726455-93188820-2abe-4f2e-91eb-ff65016d5f15.JPG)
+37c384.JPG)
+
 
 Adding the battery and extension cords:  
-<img src="https://user-images.githubusercontent.com/86201494/126851179-851a3e62-9141-4b38-8aed-d5edfb0da7ac.JPG" width=300 align=center style="float:right; padding-right:10px">
-<img src="https://user-images.githubusercontent.com/86201494/126851177-6684e429-baed-445e-9c27-4e30dc28a6af.JPG" width=500 align=center style="float:right; padding-right:10px">
-  
+![Battery_Side](https://user-images.githubusercontent.com/86201494/127726515-451a7648-44da-4725-9d9f-453a94f6dc5f.JPG)
+![Battery_Top](https://user-images.githubusercontent.com/86201494/127726520-3de7fb87-be8c-4535-a1a8-7b67eb23f923.JPG)
+
 
 # Circuit Diagram 
-<img src="https://user-images.githubusercontent.com/86201494/126854831-7be82410-fa27-4eb9-aed2-af4f0720780b.png" width=500 align=center style="float:right; padding-right:10px">
-  
+![Circuit Diagram Bluestamp Object Tracking Car Project (1)](https://user-images.githubusercontent.com/86201494/127726572-42458bc6-82ed-446f-9336-1d3ca15571b5.png)
+
 # Code
 
 ![](https://user-images.githubusercontent.com/86201494/127725883-994587a1-979d-4523-9a25-bd331f0025f2.png)
