@@ -7,7 +7,6 @@ This project intrigued me because it combines computer vision with robotics. In 
 |:--:|:--:|:--:|:--:|
 | Oliver | Leland High School | Electrical Engineering | Incoming Senior
 
-![Headstone Image](https://user-images.githubusercontent.com/86201494/126851087-6cdda2d1-b4bb-4fc0-83c0-803900.JPG)
 ![TestDrive_Side](https://user-images.githubusercontent.com/86201494/127748388-1ccb7bc7-0261-495d-81ad-5f490af8f162.JPG)
 
 # Final Milestone
@@ -34,6 +33,7 @@ Here are some pictures of the development process:
 
 Prototype breadboard without internal battery (power bank):  
 ![Breadboard_Prototype](https://user-images.githubusercontent.com/86201494/127726509-9221f7d8-02d7-4a32-a012-1ef3b41beec9.JPG)
+
 
 Opening up the chassis:  
 ![Base_Chassis](https://user-images.githubusercontent.com/86201494/127726455-93188820-2abe-4f2e-91eb-ff65016d5f15.JPG)
