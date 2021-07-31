@@ -53,6 +53,9 @@ Adding the battery and extension cords:
 # Circuit Diagram 
 <img src="https://user-images.githubusercontent.com/86201494/126854831-7be82410-fa27-4eb9-aed2-af4f0720780b.png" width=500 align=center style="float:right; padding-right:10px">
   
+# Code
+
+![](https://user-images.githubusercontent.com/86201494/127725883-994587a1-979d-4523-9a25-bd331f0025f2.png)
 
 # Second Milestone
 My second milestone was using the camera to control the motors of the car. This is a crucial aspect of the self-driving car, since it needs to be able to track and recognize where the desired object is, and then respond accordingly through driving towards that object. At first, I encountered a problem in that the motors were wired incorrectly, leading to a forwards command becoming a right turn, for example. To solve this, I manually gave the robot some commands to test which connections corresponded with which wheels, and was able to fix the problem. The next step is to incorporate the ultrasonic sensors and integrate the electronics onto the chassis in such a way that the car can run on its own (separate from a monitor/wired power source).
