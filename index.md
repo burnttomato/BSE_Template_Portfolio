@@ -5,7 +5,6 @@ This project intrigued me because it combines computer vision with robotics. In 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Oliver | Leland High School | Electrical Engineering | Incoming Senior
 
 ![TestDrive_Side](https://user-images.githubusercontent.com/86201494/127748388-1ccb7bc7-0261-495d-81ad-5f490af8f162.JPG)
 
